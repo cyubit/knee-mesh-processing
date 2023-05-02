@@ -1,5 +1,4 @@
-# knee-mesh-processing
-Automatic Generation of Patient-Specific Knee Models for Musculoskeletal Simulation
+# Automatic Generation of Patient-Specific Knee Models for Musculoskeletal Simulation
 
 ## Setup
 1. Clone repository 
